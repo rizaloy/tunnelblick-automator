@@ -1,1 +1,1 @@
-client_rizal
+your_tunnelblick_config_name
